@@ -35,7 +35,7 @@
           院运会邀请函
         </a>
       </li>
-      <br>
+      <br />
       <li>
         <a
           href="http://wc15.cjunqi.com"
@@ -58,6 +58,23 @@
           target="_blank"
         >
           聊魅即时通讯
+        </a>
+      </li>
+      <br />
+      <li>
+        <a
+          href="http://cjunqi.com:8080/VR"
+          target="_blank"
+        >
+          虚拟现实门户网站
+        </a>
+      </li>
+      <li>
+        <a
+          href="http://cjunqi.com:8080/VR/#/admin"
+          target="_blank"
+        >
+          虚拟现实门户网站管理员
         </a>
       </li>
     </ul>
